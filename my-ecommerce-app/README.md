@@ -56,7 +56,3 @@ Ozmio Store is a front-end e-commerce platform specializing in gaming gear. This
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
